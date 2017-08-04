@@ -1,0 +1,52 @@
+02:00:09.347 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 1268 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+02:00:09.378 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+02:00:09.378 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+02:10:05.048 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 24308 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+02:10:05.064 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+02:10:05.064 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+02:10:19.165 [main] DEBUG c.e.s.o.s.UserService - count()
+02:10:19.477 [main] DEBUG c.e.s.o.s.UserService - save()
+02:10:20.149 [main] INFO  c.e.s.o.Application - Started Application in 15.882 seconds (JVM running for 18.015)
+02:14:12.678 [http-nio-8080-exec-1] DEBUG c.e.s.o.Application - home page
+02:15:11.704 [http-nio-8080-exec-3] DEBUG c.e.s.o.r.UserRestController - listAllUsers()
+02:15:11.708 [http-nio-8080-exec-3] DEBUG c.e.s.o.s.UserService - findAll()
+02:16:23.712 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 15808 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+02:16:23.712 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+02:16:23.712 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+02:16:35.718 [main] DEBUG c.e.s.o.s.UserService - count()
+02:16:35.969 [main] INFO  c.e.s.o.Application - Started Application in 12.829 seconds (JVM running for 13.878)
+02:18:44.043 [http-nio-8080-exec-5] DEBUG c.e.s.o.s.UserService - findByEmail(): email = zahid7292@gmail.com
+02:19:42.352 [http-nio-8080-exec-9] DEBUG c.e.s.o.r.UserRestController - listAllUsers()
+02:19:42.352 [http-nio-8080-exec-9] DEBUG c.e.s.o.s.UserService - findAll()
+02:19:55.873 [http-nio-8080-exec-1] DEBUG c.e.s.o.r.UserRestController - getUser(): id = 1
+02:19:55.873 [http-nio-8080-exec-1] DEBUG c.e.s.o.s.UserService - findOne(): id = 1
+02:20:01.545 [http-nio-8080-exec-3] DEBUG c.e.s.o.r.UserRestController - getUser(): id = 2
+02:20:01.545 [http-nio-8080-exec-3] DEBUG c.e.s.o.s.UserService - findOne(): id = 2
+02:20:01.553 [http-nio-8080-exec-3] DEBUG c.e.s.o.GenericExceptionHandler - handleException: Source object must not be null
+02:20:13.426 [http-nio-8080-exec-4] DEBUG c.e.s.o.r.UserRestController - getUser(): id = 1
+02:20:13.430 [http-nio-8080-exec-4] DEBUG c.e.s.o.s.UserService - findOne(): id = 1
+02:21:19.926 [http-nio-8080-exec-10] DEBUG c.e.s.o.s.UserService - findByEmail(): email = zahid7292@gmail.com
+02:21:39.170 [http-nio-8080-exec-2] DEBUG c.e.s.o.GenericExceptionHandler - processValidationError()
+02:22:49.768 [http-nio-8080-exec-3] DEBUG c.e.s.o.GenericExceptionHandler - processValidationError()
+02:23:10.053 [http-nio-8080-exec-4] DEBUG c.e.s.o.r.UserRestController - createUser():
+ UserDto{id=null, name=Md Mojahid Hussain, email=mojahid@gmail.com, role=ADMIN, mobile=8987525008}
+02:23:10.057 [http-nio-8080-exec-4] DEBUG c.e.s.o.s.UserService - save()
+02:23:38.423 [http-nio-8080-exec-8] DEBUG c.e.s.o.s.UserService - findByEmail(): email = zahid7292@gmail.com
+02:24:01.079 [http-nio-8080-exec-10] DEBUG c.e.s.o.r.UserRestController - listAllUsers()
+02:24:01.079 [http-nio-8080-exec-10] DEBUG c.e.s.o.s.UserService - findAll()
+13:49:17.029 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 12556 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+13:49:17.065 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+13:49:17.065 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+13:50:30.067 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 13824 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+13:50:30.139 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+13:50:30.139 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+13:51:19.485 [main] DEBUG c.e.s.o.s.UserService - count()
+13:51:21.189 [main] INFO  c.e.s.o.Application - Started Application in 52.827 seconds (JVM running for 57.358)
+14:40:52.361 [main] INFO  c.e.s.o.Application - Starting Application on DESKTOP-S6EQ8P8 with PID 10856 (E:\project\tna\web-app\target\classes started by Mojahid Hussain in E:\project\tna\web-app)
+14:40:52.413 [main] DEBUG c.e.s.o.Application - Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+14:40:52.414 [main] INFO  c.e.s.o.Application - No active profile set, falling back to default profiles: default
+14:41:13.837 [main] DEBUG c.e.s.o.s.UserService - count()
+14:41:14.617 [main] INFO  c.e.s.o.Application - Started Application in 23.903 seconds (JVM running for 28.979)
+14:43:47.956 [http-nio-8080-exec-5] DEBUG c.e.s.o.s.UserService - findByEmail(): email = zahid7292@gmail.com
+14:44:31.190 [http-nio-8080-exec-9] DEBUG c.e.s.o.r.UserRestController - listAllUsers()
+14:44:31.192 [http-nio-8080-exec-9] DEBUG c.e.s.o.s.UserService - findAll()
